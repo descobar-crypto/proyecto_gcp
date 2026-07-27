@@ -60,28 +60,19 @@ El sistema transaccional permanece On-Premise. El alcance del proyecto es exclus
 
 ---
 
-## Estructura del repositorio
-
-```
-proyecto_gcp/
-├── actividades/
-│   ├── actividad_1/
-│   ├── actividad_2/
-│   │   ...
-│   └── actividad_15/
-├── utilidades/
-│   └── skills.md
-└── README.md
-```
 
 ---
 
 ## Equipo
 
-| Rol | Responsabilidad |
+| Integrante | Rol |
 |---|---|
-| Célula Párvulos | Desarrollo e implementación |
-| Arquitectura Técnica | Diseño de solución y decisiones de arquitectura |
+| Daniel Navarro | Célula Párvulos |
+| Luis Escobar | Célula Párvulos |
+| Eunice Beltran | Célula Párvulos |
+| Gerardo Quintanilla | Célula Párvulos |
+| Edwin Edenilsson | Célula Párvulos |
+| Diego Escobar | Célula Párvulos |
 
 ---
 
@@ -89,4 +80,4 @@ proyecto_gcp/
 
 - Oracle permanece como la base de datos transaccional oficial durante todo el proyecto.
 - El enfoque de integración es **ELT**: los datos se replican primero y se transforman dentro de BigQuery.
-- Los volúmenes operacionales estimados son de 600–800 registros diarios en promedio.
+- Debido a limitaciones en informacion, existen partes que se implementaron teniendo en cuenta esa precariedad, por tanto tambien sujetas a una evaluacion cuando se conozcan todos los detalles tecnicos de la base de datos.
