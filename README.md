@@ -15,40 +15,7 @@ El sistema transaccional permanece On-Premise. El alcance del proyecto es exclus
 ---
 
 ## Arquitectura
-
-```
-Sistema Aduanero
-      │
-      ▼
-Oracle 12c (On-Premise)
-      │
-      ▼
-Change Data Capture (CDC)
-      │
-      ▼
-HA VPN
-      │
-      ▼
-Google Cloud VPC
-      │
-      ▼
-Private Service Connect
-      │
-      ▼
-Datastream
-      │
-      ▼
-BigQuery RAW
-      │
-      ▼
-Dataform
-      │
-      ▼
-BigQuery Curated
-      │
-      ▼
-Looker Studio
-```
+![Imagen arquitectura](/utilidades/arquitectura.drawio.png)
 
 ---
 
