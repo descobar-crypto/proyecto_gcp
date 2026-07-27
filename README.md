@@ -66,7 +66,7 @@ El sistema transaccional permanece On-Premise. El alcance del proyecto es exclus
 
 | Integrante | Rol |
 |---|---|
-| Daniela Navarro | Célula Párvulos |
+| Daniella Navarro | Célula Párvulos |
 | Luis Escobar | Célula Párvulos |
 | Eunice Beltran | Célula Párvulos |
 | Gerardo Quintanilla | Célula Párvulos |
