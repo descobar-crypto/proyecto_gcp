@@ -1,0 +1,8 @@
+1- gobierno de datos y seguridad 
+
+propuestas:
+1: Rotación de credenciales cada 30 días o a conveniencia del equipo
+2: Firma de Non-Disclosure Agreement (NDA) con todos los colaboradores que accedan a datos sensibles
+3: Principio de mínimo privilegio en IAM — cada rol accede solo a lo estrictamente necesario
+4: Autenticación multifactor (MFA) obligatoria para accesos a consola y herramientas de datos
+5: Revisión periódica de accesos (Access Review trimestral) para revocar permisos de usuarios inactivos o que cambiaron de rol
