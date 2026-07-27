@@ -2,7 +2,6 @@
 
 **Célula:** Párvulos  
 **Estado:** Propuesta  
-**Dominio:** Analítica Aduanera  
 
 ---
 
